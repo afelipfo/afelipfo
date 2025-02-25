@@ -21,7 +21,7 @@ Welcome! I'm **Felipe Flórez Olivera**, a **Data Scientist** passionate about *
 
 🎓 **Education:**  
 - 🎓 *Master of Science in Artificial Intelligence* – Universidad de los Andes *(In Progress)*  
-- 🎓 *Program in Data Science and Machine Learning: Making Data-Driven Decisions * – MIT *(2024)*  
+- 🎓 *Program in Data Science and Machine Learning: Making Data-Driven Decisions* – MIT *(2024)*  
 - 🎓 *Bachelor of Science in Physics* – Universidad Pedagógica y Tecnológica de Colombia *(2021)*  
 
 💼 **Experience:**  
