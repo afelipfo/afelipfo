@@ -6,7 +6,7 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-EDA%20%7C%20Feature%20Engineering%20%7C%20Predictive%20Modeling-success)  
 ![Status](https://img.shields.io/badge/Status-Active-green)  
 
-📫 **florezoliverafelipe@gmail.com** | 🌐 [LinkedIn](#) | 💻 [GitHub](#)  
+🌐 [LinkedIn](https://www.linkedin.com/in/felipeflorezo/)
 
 ## 🏆 Kaggle & AI Projects  
 
