@@ -1,8 +1,8 @@
-# 🚀 Felipe Flórez Olivera – AI Engineering & Data Engineering
+# 🚀 Felipe Flórez Olivera – Data & AI Engineer
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-TensorFlow%20%7C%20PyTorch%20%7C%20LangChain-orange)  
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-blue)  
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-blue)  
 ![Data Science](https://img.shields.io/badge/Data%20Science-EDA%20%7C%20ML%20Pipelines%20%7C%20Predictive%20Modeling-success)  
 ![SQL](https://img.shields.io/badge/Database-SQL%20%7C%20Data%20Integration-informational)  
 ![BI & Visualization](https://img.shields.io/badge/BI%20%26%20Visualization-Power%20BI%20%7C%20Seaborn%20%7C%20Matplotlib-yellow)  
@@ -11,40 +11,64 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/felipeflorezo/)  
 📧 [florezoliverafelipe@gmail.com](mailto:florezoliverafelipe@gmail.com) | 📱 (+57) 3236207290
 
+---
+
 ## 🏆 Introduction
 
-Hello! I’m **Felipe Flórez Olivera**, an **AI & Data Engineer** passionate about designing scalable data pipelines and delivering innovative AI-driven solutions. With expertise in **Python, SQL, and cloud platforms (Azure, AWS, GCP)**, I specialize in data integration, optimization, and production-ready analytics and machine learning systems. I’m a proactive problem-solver with strong analytical and communication skills, thriving in cross-functional teams to drive impactful business outcomes through **data-informed strategies** and **cutting-edge technologies**.
+Hello! I’m **Felipe Flórez Olivera**, a Data & AI Engineer with a solid background in data science. I specialize in designing, building, and optimizing scalable data pipelines and data ecosystems that support AI/machine learning workflows, drive automation, and enhance data-driven decision-making. With hands-on expertise in Python, SQL, AWS, and GCP, I thrive in cross-functional teams and am passionate about solving complex problems with innovative, production-ready solutions. I'm also actively involved in the AI community as a Community Organizer for TensorFlow Colombia.
 
-This repository showcases my projects and contributions in **NLP, Computer Vision, Predictive Modeling**, and more—exploring real-world applications of AI and data science.
+This repository showcases my projects and contributions in NLP, Computer Vision, Predictive Modeling, and more—exploring real-world applications of AI and data science.
 
 ---
 
-## 📌 About Me  
+## 📌 About Me
 
 ### 🎓 Education  
 - **Master of Science in Artificial Intelligence** – Universidad de los Andes *(In Progress)*  
 - **Program in Data Science and Machine Learning: Making Data-Driven Decisions** – MIT *(2024)*  
+- **Machine Learning Engineer** – Anyone AI  
 - **Bachelor of Science in Physics** – Universidad Pedagógica y Tecnológica de Colombia *(2021)*  
 
+### 🛠️ Technical Skills  
+- **Programming:** Python, SQL  
+- **Cloud Platforms:** AWS, GCP  
+- **Big Data & ETL:** Apache Spark, Data Pipeline Development  
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch  
+- **Data Visualization & Analytics:** Power BI, Dashboard Development  
+- **Data Governance:** Data Management & Compliance  
 
-## 📌 Tech Stack & Tools  
+---
+
+## 📌 Tech Stack & Tools
 
 ### 🛠️ Programming & Libraries  
-- **Python**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, LangChain  
-- **SQL**: Data wrangling, integration, and database management  
+- **Python:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, LangChain  
+- **SQL:** Data wrangling, integration, and database management  
 
 ### ☁️ Cloud & Deployment  
-- **Azure | AWS | GCP**: Scalable data pipelines and ML model deployment  
+- **AWS | GCP:** Scalable data pipelines and ML model deployment  
 
 ### 📊 Visualization & Analytics  
-- **Power BI | Matplotlib | Seaborn**: Actionable insights and data storytelling  
+- **Power BI | Matplotlib | Seaborn:** Actionable insights and data storytelling  
 
+---
 
-## 📬 Get in Touch  
-Feel free to connect with me for collaboration, project ideas, or just to chat about AI and data science!  
+## 🤝 Volunteering
 
-- **Email**: [florezoliverafelipe@gmail.com](mailto:florezoliverafelipe@gmail.com)  
-- **LinkedIn**: [felipeflorezo](https://www.linkedin.com/in/felipeflorezo/)  
-- **Phone**: (+57) 3236207290  
+### TensorFlow Colombia – Community Organizer (Mar 2023 – Feb 2025)
+- Organized and executed events such as meetups, workshops, and hackathons to promote hands-on AI learning.
+- Acted as the primary community liaison, fostering an inclusive environment for AI enthusiasts and developers.
+- Built partnerships with local tech companies, academic institutions, and the global TensorFlow community.
+- Developed and managed online content to drive education, awareness, and continuous improvement in AI technologies.
+
+---
+
+## 📬 Get in Touch
+
+Feel free to connect with me for collaboration, project ideas, or just to chat about AI and data science!
+
+- **Email:** [florezoliverafelipe@gmail.com](mailto:florezoliverafelipe@gmail.com)  
+- **LinkedIn:** [felipeflorezo](https://www.linkedin.com/in/felipeflorezo/)  
+- **Phone:** (+57) 3236207290  
 
 Let’s build something impactful together! 🚀
