@@ -9,7 +9,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-green)  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/felipeflorezo/)  
-📧 [florezoliverafelipe@gmail.com](mailto:florezoliverafelipe@gmail.com) | 📱 (+57) 3236207290
 
 ---
 
@@ -51,24 +50,6 @@ This repository showcases my projects and contributions in NLP, Computer Vision,
 ### 📊 Visualization & Analytics  
 - **Power BI | Matplotlib | Seaborn:** Actionable insights and data storytelling  
 
----
-
-## 🤝 Volunteering
-
-### TensorFlow Colombia – Community Organizer (Mar 2023 – Feb 2025)
-- Organized and executed events such as meetups, workshops, and hackathons to promote hands-on AI learning.
-- Acted as the primary community liaison, fostering an inclusive environment for AI enthusiasts and developers.
-- Built partnerships with local tech companies, academic institutions, and the global TensorFlow community.
-- Developed and managed online content to drive education, awareness, and continuous improvement in AI technologies.
-
----
-
-## 📬 Get in Touch
-
 Feel free to connect with me for collaboration, project ideas, or just to chat about AI and data science!
-
-- **Email:** [florezoliverafelipe@gmail.com](mailto:florezoliverafelipe@gmail.com)  
-- **LinkedIn:** [felipeflorezo](https://www.linkedin.com/in/felipeflorezo/)  
-- **Phone:** (+57) 3236207290  
 
 Let’s build something impactful together! 🚀
