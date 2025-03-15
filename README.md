@@ -1,14 +1,22 @@
 # 🚀 Felipe Flórez Olivera – Data & AI Engineer
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-TensorFlow%20%7C%20PyTorch%20%7C%20LangChain-orange)  
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-blue)  
-![Data Science](https://img.shields.io/badge/Data%20Science-EDA%20%7C%20ML%20Pipelines%20%7C%20Predictive%20Modeling-success)  
-![SQL](https://img.shields.io/badge/Database-SQL%20%7C%20Data%20Integration-informational)  
-![BI & Visualization](https://img.shields.io/badge/BI%20%26%20Visualization-Power%20BI%20%7C%20Seaborn%20%7C%20Matplotlib-yellow)  
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-grey?style=flat&logo=postgresql)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-ff6f00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.x-ee4c2c?style=flat&logo=pytorch)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Big%20Data-e25a1c?style=flat&logo=apachespark)
+![ETL Pipelines](https://img.shields.io/badge/ETL-Pipelines-blueviolet?style=flat)
+![Data Warehousing](https://img.shields.io/badge/Data-Warehousing-forestgreen?style=flat)
+![AWS](https://img.shields.io/badge/AWS-Cloud-ff9900?style=flat&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285f4?style=flat&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078d4?style=flat&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ed?style=flat&logo=docker)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-000000?style=flat&logo=flask)
+![Redis](https://img.shields.io/badge/Redis-Database-dc382d?style=flat&logo=redis)
+![Linux](https://img.shields.io/badge/Linux-OS-fcc624?style=flat&logo=linux)
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-f2c811?style=flat&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Active-green)  
-
-🌐 [LinkedIn](https://www.linkedin.com/in/felipeflorezo/)  
 
 ---
 
@@ -33,5 +41,7 @@ This repository showcases my projects and contributions in NLP, Computer Vision,
 ---
 
 Feel free to connect with me for collaboration, project ideas, or just to chat about AI and data science!
+
+🌐 [LinkedIn](https://www.linkedin.com/in/felipeflorezo/) 
 
 Let’s build something impactful together! 🚀
