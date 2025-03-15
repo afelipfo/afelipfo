@@ -12,43 +12,25 @@
 
 ---
 
-## 🏆 Introduction
+## 📌  About Me
 
-Hello! I’m **Felipe Flórez Olivera**, a Data & AI Engineer with a solid background in data science. I specialize in designing, building, and optimizing scalable data pipelines and data ecosystems that support AI/machine learning workflows, drive automation, and enhance data-driven decision-making. With hands-on expertise in Python, SQL, AWS, and GCP, I thrive in cross-functional teams and am passionate about solving complex problems with innovative, production-ready solutions. I'm also actively involved in the AI community as a Community Organizer for TensorFlow Colombia.
+Proactive AI/ML Engineer with experience in designing, optimizing, and deploying scalable machine learning solutions. Proficient with hands-on experience in NLP, Computer Vision, predictive modeling, and Generative AI. Skilled in building robust ETL pipelines, leveraging MLOps for production-ready systems, and delivering innovative, data-driven insights. Passionate about solving complex problems and collaborating with cross-functional teams to drive impactful AI solutions. Professional proficiency in English.
 
 This repository showcases my projects and contributions in NLP, Computer Vision, Predictive Modeling, and more—exploring real-world applications of AI and data science.
 
 ---
 
-## 📌 About Me
+## 
 
-### 🎓 Education  
-- **Master of Science in Artificial Intelligence** – Universidad de los Andes *(In Progress)*  
-- **Program in Data Science and Machine Learning: Making Data-Driven Decisions** – MIT *(2024)*  
-- **Machine Learning Engineer** – Anyone AI  
-- **Bachelor of Science in Physics** – Universidad Pedagógica y Tecnológica de Colombia *(2021)*  
-
-### 🛠️ Technical Skills  
-- **Programming:** Python, SQL  
-- **Cloud Platforms:** AWS, GCP  
-- **Big Data & ETL:** Apache Spark, Data Pipeline Development  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch  
-- **Data Visualization & Analytics:** Power BI, Dashboard Development  
-- **Data Governance:** Data Management & Compliance  
+### 🛠️ Skills  
+- **Programming:** Python, SQL
+- **Machine Learning Frameworks:** Scikit-learn, TensorFlow, PyTorch
+- **Data Engineering:** Apache Spark, ETL Pipelines, Data Warehousing   
+- **Cloud Platforms:** AWS, GCP, Azure  
+- **MLOps/DevOps:** Docker, Flask, Redis, Linux  
+- **Data Visualization:** Power BI
 
 ---
-
-## 📌 Tech Stack & Tools
-
-### 🛠️ Programming & Libraries  
-- **Python:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, LangChain  
-- **SQL:** Data wrangling, integration, and database management  
-
-### ☁️ Cloud & Deployment  
-- **AWS | GCP:** Scalable data pipelines and ML model deployment  
-
-### 📊 Visualization & Analytics  
-- **Power BI | Matplotlib | Seaborn:** Actionable insights and data storytelling  
 
 Feel free to connect with me for collaboration, project ideas, or just to chat about AI and data science!
 
