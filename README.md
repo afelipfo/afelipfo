@@ -15,7 +15,6 @@
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-000000?style=flat&logo=flask)
 ![Redis](https://img.shields.io/badge/Redis-Database-dc382d?style=flat&logo=redis)
 ![Linux](https://img.shields.io/badge/Linux-OS-fcc624?style=flat&logo=linux)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-f2c811?style=flat&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Active-green)  
 
 ---
