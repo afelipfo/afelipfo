@@ -50,3 +50,6 @@ Feel free to connect with me for collaboration, project ideas, or just to chat a
 🌐 [LinkedIn](https://www.linkedin.com/in/felipeflorezo/) 
 
 Let’s build something impactful together! 🚀
+
+
+![Animated GIF]([https://media.giphy.com/media/your-gif-id/giphy.gif](https://giphy.com/gifs/Penguclips-3d-penguin-pengu-ytBoIyQ7ArpRirP0oh))
