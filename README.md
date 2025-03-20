@@ -27,7 +27,9 @@ This repository showcases my projects and contributions in NLP, Computer Vision,
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afelipefo&show_icons=true&count_private=true&theme=default)
+## My Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afelipefo&show_icons=true&count_private=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afelipefo&theme=radical)
 
 
 ## 
