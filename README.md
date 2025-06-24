@@ -1,4 +1,4 @@
-# 🚀 Felipe Flórez Olivera – AI/ML Engineer
+# 🚀 Felipe Flórez Olivera – Machine Learning Engineer
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-grey?style=flat&logo=postgresql)
