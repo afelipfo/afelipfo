@@ -21,8 +21,7 @@
 
 ## 📌  About Me
 
-AI & Data Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence (in progress), bringing 5+ years of experience across public sector, academia, and AI-driven products. Demonstrated achievements in data engineering, Generative AI, and NLP research, leveraging ML, ETL pipelines, and cloud platforms (AWS, GCP, Azure) to drive efficiency and compliance. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. Bilingual in Spanish and English, with expertise in Python, SQL, Apache Spark, and Power BI to deliver scalable AI solutions.
-
+AI & Data Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence (in progress), with around 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, Generative AI, CV, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. 
 This repository showcases my projects and contributions in NLP, Computer Vision, Predictive Modeling, and more—exploring real-world applications of AI and data science.
 
 ---
