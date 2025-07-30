@@ -21,7 +21,7 @@
 
 ## 📌  About Me
 
-AI & Data Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence (in progress), with around 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, Generative AI, CV, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. 
+Artificial Intelligence Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence (in progress), with around 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, GenAI, CV, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. 
 This repository showcases my projects and contributions in NLP, Computer Vision, Predictive Modeling, and more—exploring real-world applications of AI and data science.
 
 ---
@@ -43,9 +43,3 @@ This repository showcases my projects and contributions in NLP, Computer Vision,
 - **Data Visualization:** Power BI
 
 ---
-
-Feel free to connect with me for collaboration, project ideas, or just to chat about AI and data science!
-
-🌐 [LinkedIn](https://www.linkedin.com/in/felipeflorezo/) 
-
-Let’s build something impactful together! 🚀
