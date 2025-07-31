@@ -20,7 +20,7 @@
 
 ## 📌  About Me
 
-Artificial Intelligence Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence, with 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, GenAI, CV, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. Co-creator of a Specialization Program in Artificial Intelligence at the Universidad Pedagogica and Technological of Colombia. 
+Artificial Intelligence Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence, with 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, GenAI, CV, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. Co-creator of a Specialization Program in Artificial Intelligence at the Universidad Pedagogica y Tecnologica de Colombia. 
 This repository showcases my projects and contributions in NLP, Computer Vision, Predictive Modeling, and more—exploring real-world applications of AI and data science.
 
 ## 🚀 My Contributions
