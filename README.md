@@ -1,5 +1,5 @@
 # Andrés Felipe Flórez Olivera
-### Artificial Intelligence Engineer | Data Scientist | Cloud Enthusiast
+### Artificial Intelligence Software Engineer | Data Science | Cloud Computing
 
 <p align="left"> 
   <a href="https://github.com/afelipfo" target="_blank">
