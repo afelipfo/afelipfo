@@ -20,8 +20,8 @@
 
 ## 📌  About Me
 
-Artificial Intelligence Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence, with 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, GenAI, CV, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. Co-creator of a Specialization Program in Artificial Intelligence at the Universidad Pedagogica y Tecnologica de Colombia. 
-This repository showcases my projects and contributions in NLP, Computer Vision, Predictive Modeling, and more—exploring real-world applications of AI and data science.
+Artificial Intelligence Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence, with 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, GenAI, CV, ML, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. Co-creator of a Specialization Program in Artificial Intelligence at the Universidad Pedagogica y Tecnologica de Colombia. I'm actually working on GenAI based on infraestructure services at Distrito de Ciencia, Tecnología e Innovación - Col (2025).
+This repository showcases my projects and contributions in NLP, Computer Vision and Predictive Modeling.
 
 ## 🚀 My Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afelipfo&show_icons=true&count_private=true&theme=radical)
