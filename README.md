@@ -20,7 +20,7 @@
 
 ## 📌  About Me
 
-Artificial Intelligence Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence, with 5 years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, GenAI, CV, ML, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. Co-creator of a Specialization Program in Artificial Intelligence at the Universidad Pedagogica y Tecnologica de Colombia. I'm actually working on GenAI based on infraestructure services at Distrito de Ciencia, Tecnología e Innovación - Col (2025).
+Artificial Intelligence Engineer with a Bachelor’s in Physics and a Master’s in Artificial Intelligence. Professional Certificate in Data Science and Machine Learning from Massachussetts Institute of Technology (MIT) at 2024, and pursuing a Posgraduate Program in Cloud Computing at University of Texas at Austin May'25. Five (5) years of experience across public sector, academia, and startup ecosystems. Demonstrated achievements in data engineering, GenAI, CV, ML, and NLP. Led AI education initiatives, mentoring 100+ developers and fostering ML communities. Co-creator of a Specialization Program in Artificial Intelligence at the Universidad Pedagogica y Tecnologica de Colombia. I'm actually working on GenAI based on infraestructure services at Distrito de Ciencia, Tecnología e Innovación - Col (2025).
 This repository showcases my projects and contributions in NLP, Computer Vision and Predictive Modeling.
 
 ## 🚀 My Contributions
