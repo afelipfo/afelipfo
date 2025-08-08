@@ -8,7 +8,7 @@ I am an AI Engineer with a strong foundation in Physics and a passion for transf
 - 🔭 I'm currently building **GenAI-powered infrastructure services** at Medellín's Science, Technology, and Innovation District.
 - 🎓 I hold a Master's degree in AI, an **MIT** Professional Certificate in Data Science & Machine Learning (2024), and am currently pursuing a graduate program in Cloud Computing at the **University of Texas at Austin**.
 - 👨‍🏫 I co-created the **Postgraduate Specialization in Artificial Intelligence** program at UPTC, where I had the honor of mentoring over 100 developers.
-- 🚀 My research focuses on AI, and I am exploring a future **Ph.D. in Applied Mathematics**. I'm open to research opportunities and collaborations.
+- 🚀 My research focuses on AI, and I am exploring a future **Ph.D. in Applied Mathematics**. I'm open to research opportunities and collaborations!!!
 - ⚡ **Fun fact**: My background in physics gives me a unique perspective on modeling complex systems and grasping the first principles behind algorithms.
 
 ---
