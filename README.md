@@ -1,7 +1,7 @@
 # Andrés Felipe Flórez Olivera
-### Artificial Intelligence Software Engineer | Data Scientist | Cloud Enthusiast
+### Artificial Intelligence | Software Engineering |  Data Science
 
-### 👋 About Me
+### 👋 About me
 
 I am an AI Engineer with a strong foundation in Physics and a passion for transforming complex data into intelligent solutions. With **5 years of experience** spanning the public, academic, and startup sectors, my career is dedicated to driving impact through technology.
 
@@ -9,7 +9,7 @@ I am an AI Engineer with a strong foundation in Physics and a passion for transf
 - 🎓 I hold a Master's degree in AI, an **MIT** Professional Certificate in Data Science & Machine Learning (2024), and am currently pursuing a graduate program in Cloud Computing at the **University of Texas at Austin**.
 - 👨‍🏫 I co-created the **Postgraduate Specialization in Artificial Intelligence** program at UPTC, where I had the honor of mentoring over 100 developers.
 - 🚀 My research focuses on AI, and I am exploring a future **Ph.D. in Applied Mathematics**. I'm open to research opportunities and collaborations.
-- ⚡ **Fun Fact**: My background in physics gives me a unique perspective on modeling complex systems and grasping the first principles behind algorithms.
+- ⚡ **Fun fact**: My background in physics gives me a unique perspective on modeling complex systems and grasping the first principles behind algorithms.
 
 ---
 
