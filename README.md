@@ -7,9 +7,9 @@
 Soy un Ingeniero de IA con una sólida base en Física y un Máster en Inteligencia Artificial, apasionado por transformar datos complejos en soluciones inteligentes. Con **5 años de experiencia** en los sectores público, académico y de startups, mi carrera está dedicada a generar impacto a través de la tecnología.
 
 - 🔭 Actualmente construyo **servicios de infraestructura basados en IA Generativa** en el Distrito de Ciencia, Tecnología e Innovación de Medellín.
-- 🎓 Finalizando un Máster en IA, certificado por el **MIT** en Data Science & Machine Learning (2024) y cursando un posgrado en Cloud Computing en la **University of Texas at Austin**.
+- 🎓 Finalizando un Máster en IA, certificado por el **MIT** en Data Science & Machine Learning (2024) y Posgrado en Cloud Computing en la **University of Texas at Austin**.
 - 👨‍🏫 Fui co-creador del programa de **Especialización en Inteligencia Artificial** de la UPTC, donde tuve el honor de ser mentor para más de 100 desarrolladores.
-- ⚡ **Dato curioso:** Mi formación en física me otorga una perspectiva única para modelar sistemas complejos y comprender los primeros principios detrás de los algoritmos.
+- ⚡ **Dato curioso:** Mi formación en física me otorga una perspectiva única para modelar sistemas complejos y comprender los primeros principios detrás de los algoritmos desde un punto de vista de matemática aplicada.
 
 ---
 
