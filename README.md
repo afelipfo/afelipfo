@@ -11,7 +11,7 @@
 
 ### 👨‍🚀 Sobre Mí
 
-Soy Magíster en Inteligencia Artificial y Físico Computacional, enfocado en construir soluciones que generan un impacto medible. Con **5 años de experiencia** en los sectores público, académico y en startups, mi pasión es unir la rigurosidad científica con la agilidad del desarrollo de software.
+Soy Candidato a Magíster en Inteligencia Artificial y Físico Computacional, enfocado en construir soluciones que generan un impacto medible. Con **5 años de experiencia** en los sectores público, académico y en startups, mi pasión es unir la rigurosidad científica con la agilidad del desarrollo de software.
 
 - 🔭 Actualmente, estoy diseñando y construyendo **servicios de infraestructura basados en IA Generativa** en el Distrito de Ciencia, Tecnología e Innovación de Medellín, impulsando la próxima ola de innovación en la ciudad.
 - 🎓 Finalizando mi **Máster en Inteligencia Artificial**, y cuento con certificaciones del **MIT** en *Data Science & Machine Learning* (2024) y un Posgrado en *Cloud Computing* de la **University of Texas at Austin**.
