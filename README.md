@@ -25,9 +25,9 @@ I am proficient across the modern AI/ML stack, with deep hands-on experience in 
 | Category              | Technologies                                                                                                                                                                                          |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Cloud Platforms** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Platforms"/>                                                                                                                        |
-| **ML & Data Platforms** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,huggingface,pandas" alt="ML & Data Platforms"/>                                                                                   |
-| **MLOps & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,githubactions,mlflow" alt="MLOps & DevOps"/>                                                                                 |
-| **Core & Databases** | <img src="https://skillicons.dev/icons?i=python,postgres,redis,mongodb" alt="Core Stack & Databases"/>                                                                                                 |                                                                                                                                                             |
+| **ML & Data Platforms** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,huggingface" alt="ML & Data Platforms"/>                                                                                   |
+| **MLOps & DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,mlflow,airflow" alt="MLOps & DevOps"/>                                                                                 |
+| **Core & Databases** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" alt="Core Stack & Databases"/>                                                                                                 |                                                                                                                                                             |
 
 
 ## 📊 My GitHub Stats
