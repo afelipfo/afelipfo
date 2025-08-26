@@ -9,10 +9,9 @@
 
 ### 👨‍🚀 Professional Synopsis
 
-I am a Master in Artificial Intelligence and Computational Physicist with over **5 years of experience** architecting and deploying end-to-end AI solutions across public, academic, and startup environments. My core expertise lies at the intersection of rigorous scientific modeling and agile software development, enabling me to tackle complex challenges from first principles and deliver robust, high-impact results.
+I have over **5 years of experience** working on data and AI solutions across public, academic, and startup environments. My core expertise lies at the intersection of rigorous scientific modeling and agile software development, enabling me to tackle complex challenges from first principles and deliver robust, high-impact results.
 
--   **Current Mission:** As a key contributor at the **Innovation District of Medellín (Ruta N)**, I am designing and orchestrating the core infrastructure for **Generative AI services**, empowering the city's next wave of technological innovation.
--   **Academic Excellence:** I am finalizing my **Master's in Artificial Intelligence**, complementing a solid foundation with certifications from **MIT** in *Data Science & Machine Learning* (2024) and a Postgraduate Diploma in *Cloud Computing* from the **University of Texas at Austin**.
+-   **Academic Excellence:** I am finalizing my **Master's in Artificial Intelligence**, complementing a solid foundation with certifications from **MIT** in *Data Science & Machine Learning* (2024) and a Postgraduate Diploma in *Cloud Computing* from the **University of Texas at Austin**. Computational Physicist. 
 -   **Leadership & Mentorship:** I co-created the **Specialization in Artificial Intelligence** program at UPTC, where I designed curriculum and mentored over **100 software developers**, successfully launching their careers in the AI field.
 
 ---
