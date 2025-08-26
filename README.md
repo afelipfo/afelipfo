@@ -22,12 +22,12 @@ My approach to building AI systems is grounded in three core principles:
 
 I am proficient across the modern AI/ML stack, with deep hands-on experience in multi-cloud and hybrid environments.
 
-| Category              | Technologies                                                                                                                                                              |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Cloud Platforms** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=3&theme=light" alt="Cloud Platforms"/>                                                                     |
-| **ML & Data Platforms**| <img src="https://skillicons.dev/icons?i=databricks,tensorflow,keras,pytorch,sklearn,huggingface,pandas,numpy,jupyter&perline=9&theme=light" alt="ML & Data Platforms"/>   |
-| **MLOps & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,mlflow,terraform,git,githubactions,jenkins,linux,bash&perline=9&theme=light" alt="MLOps & DevOps Stack"/>     |
-| **Core & Databases** | <img src="https://skillicons.dev/icons?i=python,postgres,redis,mongodb&perline=4&theme=light" alt="Core Stack & Databases"/>                                              |
+| Category              | Technologies                                                                                                                                                                                                                                                         |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cloud Platforms** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud Platforms"/>                                                                                                                                                                                       |
+| **ML & Data Platforms**| <img src="https://skillicons.dev/icons?i=databricks,tensorflow,keras" alt="ML & Data Platforms"/> <img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface" alt="ML & Data Platforms"/> <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter" alt="ML & Data Platforms"/> |
+| **MLOps & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,mlflow" alt="MLOps & DevOps"/> <img src="https://skillicons.dev/icons?i=terraform,git,githubactions" alt="MLOps & DevOps"/> <img src="https://skillicons.dev/icons?i=jenkins,linux,bash" alt="MLOps & DevOps"/>         |
+| **Core & Databases** | <img src="https://skillicons.dev/icons?i=python,postgres,redis,mongodb" alt="Core Stack & Databases"/>                                                                                                                                                               |
 
 
 ## 📊 My GitHub Stats
