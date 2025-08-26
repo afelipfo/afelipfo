@@ -76,20 +76,6 @@ I architect solutions using a curated set of tools, always choosing the right te
 
 ---
 
-### 📬 Let's Connect
-
-I'm always open to discussing new projects, technological innovations, or collaboration opportunities.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andresflorezolivera/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:afelipfo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afelipfo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
