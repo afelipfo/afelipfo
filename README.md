@@ -20,7 +20,7 @@ I'm a **Senior AI Engineer** with expertise in designing, developing, and deploy
 
 With a strong foundation in **Physics** and advancing through a **Master's in Artificial Intelligence** at Universidad de los Andes, I bring a unique blend of theoretical rigor and practical engineering excellence. My work spans from intelligent infrastructure monitoring systems to LLM optimization and real-time ML pipelines.
 
-### 🎓 Education & Certifications
+### 🎓 Education
 
 ```
 🎓 Master of Science - Artificial Intelligence
@@ -35,8 +35,6 @@ With a strong foundation in **Physics** and advancing through a **Master's in Ar
 🎓 Bachelor of Science - Physics
    Universidad Pedagógica y Tecnológica de Colombia
 
-📜 Generative AI with Diffusion Models | Applications of AI for Anomaly Detection
-📜 Fundamentals of Deep Learning
 ```
 
 ---
@@ -114,14 +112,12 @@ With a strong foundation in **Physics** and advancing through a **Master's in Ar
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### MLOps & Data Engineering
+### MLOps
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
