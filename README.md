@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a **Senior AI Engineer** with expertise in designing, developing, and deploying **end-to-end machine learning systems** at scale. My focus is on bridging the gap between research and production, creating AI solutions that are not only powerful but also **maintainable, scalable, and production-ready**.
+I'm an **AI Engineer** with expertise in designing, developing, and deploying **end-to-end machine learning systems** at scale. My focus is on bridging the gap between research and production, creating AI solutions that are not only powerful but also **maintainable, scalable, and production-ready**.
 
 With a strong foundation in **Physics** and advancing through a **Master's in Artificial Intelligence** at Universidad de los Andes, I bring a unique blend of theoretical rigor and practical engineering excellence. My work spans from intelligent infrastructure monitoring systems to LLM optimization and real-time ML pipelines.
 
