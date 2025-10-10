@@ -202,25 +202,6 @@ class AIEngineeringPrinciples:
 
 ---
 
-## 🎯 Key Skills & Expertise
-
-<div align="center">
-
-| Domain | Technologies & Skills |
-|--------|----------------------|
-| **🤖 Machine Learning** | Supervised/Unsupervised Learning, Deep Learning, Ensemble Methods, Feature Engineering, Model Optimization |
-| **🧠 Deep Learning** | CNNs, RNNs, LSTMs, Transformers, GANs, Diffusion Models, Transfer Learning |
-| **💬 NLP** | BERT, GPT, T5, Transformers, Text Classification, Named Entity Recognition, Sentiment Analysis, LLMs, RLHF |
-| **👁️ Computer Vision** | Object Detection, Image Segmentation, Classification, OCR, Video Analysis |
-| **📊 Data Science** | Statistical Analysis, EDA, Hypothesis Testing, A/B Testing, Causal Inference |
-| **🔄 MLOps** | Model Deployment, Monitoring, CI/CD, Feature Stores, Model Registry, Experiment Tracking |
-| **☁️ Cloud Computing** | AWS (SageMaker, Lambda, EC2), Azure ML, GCP (Vertex AI), Serverless Architecture |
-| **🗄️ Data Engineering** | ETL/ELT Pipelines, Apache Airflow, Spark, Real-time Processing, Data Warehousing |
-| **🛠️ Software Engineering** | Design Patterns, Clean Code, Testing, Documentation, Version Control, Agile |
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
