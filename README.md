@@ -2,13 +2,13 @@
   
 # 👋 Hi, I'm Felipe Flórez
 
-### AI Engineer | MLOps Engineer | Machine Learning Specialist
+### AI|ML Engineer | Physicist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-florezo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afelipeflorezo@gmail.com)
 [![Location](https://img.shields.io/badge/Medellín,_Colombia-00C853?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Medellin,Colombia)
 
-**Building production-grade AI systems that transform data into business value**
+*"Building the future, one model at a time"* 🚀
 
 </div>
 
@@ -16,21 +16,13 @@
 
 ## 🎯 About Me
 
-I'm an **AI Engineer** with expertise in designing, developing, and deploying **end-to-end machine learning systems** at scale. My focus is on bridging the gap between research and production, creating AI solutions that are not only powerful but also **maintainable, scalable, and production-ready**.
-
-With a strong foundation in **Physics** and advancing through a **Master's in Artificial Intelligence** at Universidad de los Andes, I bring a unique blend of theoretical rigor and practical engineering excellence. My work spans from intelligent infrastructure monitoring systems to LLM optimization and real-time ML pipelines.
+I'm an **AI|ML Engineer** with expertise in designing, developing, and deploying **end-to-end machine learning systems** at scale. My focus is on bridging the gap between research and production, creating AI solutions that are not only powerful but also **maintainable, scalable, and production-ready**. I bring a unique blend of theoretical rigor and practical engineering excellence.
 
 ### 🎓 Education
 
 ```
 🎓 Master of Science - Artificial Intelligence
    Universidad de los Andes, Colombia (In Progress)
-
-🎓 Post-Graduate Program - Cloud Computing: Leveraging GenAI, DevOps
-   The University of Texas at Austin - McCombs School of Business
-
-🎓 Data Science and Machine Learning: Making Data-Driven Decisions
-   Massachusetts Institute of Technology (MIT)
 
 🎓 Bachelor of Science - Physics
    Universidad Pedagógica y Tecnológica de Colombia
@@ -207,9 +199,6 @@ class AIEngineeringPrinciples:
 
 <div align="center">
 
-### I'm always open to discussing:
-🚀 **AI/ML Projects** • 💼 **Collaboration Opportunities** • 🎓 **Knowledge Sharing** • 💡 **Innovation Ideas**
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-florezo)
@@ -217,12 +206,8 @@ class AIEngineeringPrinciples:
 
 <br>
 
-**📍 Based in Medellín, Colombia 🇨🇴**
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=afelipfo&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-*"Building the future, one model at a time"* 🚀
 
 </div>
