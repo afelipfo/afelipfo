@@ -3,11 +3,7 @@
 ## I am Felipe Flórez
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-florezo)
 
-I'm an **AI/ML Engineer** with proven experience building **end-to-end machine learning systems** across government, infrastructure, and safety-critical domains. I hold a **Master's in Artificial Intelligence** at Universidad de los Andes (GPA: 4.0/4.0), with a **Physics** background that brings mathematical rigor and analytical thinking to complex AI challenges 🚀
-
-My work spans **Computer Vision, NLP, Time-Series Forecasting, and Agentic AI**, always focused on creating production-ready solutions that deliver measurable business impact 🌎
-
-Beyond engineering, I'm passionate about knowledge sharing - I've trained **100+ professionals** in AI practices, co-created comprehensive AI curricula, and contributed to founding **TensorFlow Colombia** and **TecLA**, reaching over 1,000 spectators through virtual conferences 🌟
+My expertise spans AI models in computer vision, GenAI, and Agentic AI, which power adaptive and personalized learning experiences. Passionate about leveraging technology for societal impact, I aim to foster accessible education and innovative solutions that align with community needs, driven by collaboration and shared success.
 
 ### 🛠️ Technical Skills
 
