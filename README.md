@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Felipe Flórez
 
-### AI|ML Engineer | Physicist
+### AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-florezo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afelipeflorezo@gmail.com)
@@ -26,66 +26,8 @@ I'm an **AI|ML Engineer** with expertise in designing, developing, and deploying
 
 🎓 Bachelor of Science - Physics
    Universidad Pedagógica y Tecnológica de Colombia
-
 ```
-
 ---
-
-## 💼 Professional Experience
-
-### 🏛️ **AI Engineer** | Alcaldía de Medellín
-*March 2025 - October 2025*
-
-> Leading AI initiatives for smart city infrastructure
-
-- 🛣️ Architected intelligent monitoring system for road infrastructure, achieving **significant reduction in response time**
-- 📊 Developed predictive models for road deterioration using **time-series forecasting and computer vision**
-- ☁️ Led cloud-based infrastructure implementation ensuring **scalability and operational excellence**
-- 🎯 **Impact:** Enabled proactive maintenance planning and optimized municipal decision-making
-
-### 🎓 **AI Program Coordinator** | Universidad Pedagógica y Tecnológica de Colombia
-*February 2024 - July 2025*
-
-> Shaping the next generation of AI professionals
-
-- 🚀 Co-created comprehensive **AI Specialization Program** integrating ML, NLP, and Computer Vision
-- 👥 Designed and coordinated **3 cohorts** of Data Science Diploma Programs across multiple faculties
-- 📚 Developed curriculum for **AI Ethics, Mathematics for AI, Statistics, and Data Science**
-- 🧑‍🏫 Delivered hands-on training in EDA, ML, Deep Learning, Databases, and production AI systems
-- 🎯 **Impact:** Trained 100+ professionals in modern AI practices aligned with industry standards
-
-### 🏢 **AI Specialist** | Gobernación de Boyacá
-*September 2024 - December 2024*
-
-> Building intelligent systems for government decision-making
-
-- 🔄 Designed and deployed **real-time ML pipelines** with feature stores for model inference
-- 📈 Developed ensemble-based predictive models improving **forecasting accuracy for investment projects**
-- 📊 Built automated **AI-powered dashboards** delivering executive insights for strategic decisions
-- 🎯 **Impact:** Enabled data-driven policy-making through intelligent analytics
-
-### 🤖 **ML Engineer** | Scale AI
-*September 2023 - September 2024*
-
-> Advancing LLM capabilities through RLHF and data quality
-
-- 🧠 Improved **LLM accuracy** through RLHF implementation for code generation tasks
-- 📝 Authored comprehensive **labeling guidelines** establishing quality standards for NLP training data
-- 🛠️ Applied cutting-edge stack: **Python, TensorFlow, Transformers, Langchain, Docker**
-- 🎯 **Impact:** Enhanced model performance and consistency across multiple AI products
-
-### 🔬 **Data Scientist** | Servicio Geológico Colombiano
-*March 2023 - September 2024*
-
-> Engineering safety-critical systems for radiation monitoring
-
-- 📡 Built comprehensive **data frameworks** for real-time radiation monitoring systems
-- ⚡ Optimized data pipelines reducing **latency for safety-critical information delivery**
-- 📊 Conducted advanced analysis strengthening **risk assessment methodologies**
-- 🎯 **Impact:** Reduced emergency response time while ensuring full regulatory compliance
-
----
-
 ## 🛠️ Technical Arsenal
 
 <div align="center">
