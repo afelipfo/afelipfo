@@ -1,6 +1,7 @@
-# Hello There 👋
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ## I am Felipe Flórez
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-florezo)
 
 I'm an **AI/ML Engineer** with proven experience building **end-to-end machine learning systems** across government, infrastructure, and safety-critical domains. I hold a **Master's in Artificial Intelligence** at Universidad de los Andes (GPA: 4.0/4.0), with a **Physics** background that brings mathematical rigor and analytical thinking to complex AI challenges 🚀
 
@@ -78,6 +79,3 @@ Beyond engineering, I'm passionate about knowledge sharing - I've trained **100+
 
 📫 **Let's connect and build impactful AI solutions together!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-florezo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afelipeflorezo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afelipfo)
