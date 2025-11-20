@@ -9,11 +9,6 @@ My work spans **Computer Vision, NLP, Time-Series Forecasting, and Agentic AI**,
 
 Beyond engineering, I'm passionate about knowledge sharing - I've trained **100+ professionals** in AI practices, co-created comprehensive AI curricula, and contributed to founding **TensorFlow Colombia** and **TecLA**, reaching over 1,000 spectators through virtual conferences 🌟
 
-### 🦄 Fun facts
-* **Meritorious Thesis** in Physics - applying the same scientific rigor to solve real-world AI problems
-* Contributed to **citizen science initiatives** at Celestron LLC, processing 500+ telescope images monthly and mentoring 20+ amateur astronomers
-* My philosophy: **"Building the future, one model at a time"** 🚀
-
 ### 🛠️ Technical Skills
 
 #### 🧠 Core Competencies
@@ -74,8 +69,3 @@ Beyond engineering, I'm passionate about knowledge sharing - I've trained **100+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-📫 **Let's connect and build impactful AI solutions together!**
-
