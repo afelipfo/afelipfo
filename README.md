@@ -7,15 +7,10 @@ My expertise spans AI models in Agentic AI, Computer vision, and Data Engineerin
 
 ### 🛠️ Technical Skills
 
-#### 🧠 Core Competencies
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-0081CB?style=for-the-badge&logo=dataiku&logoColor=white)
-
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 🤖 AI/ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -36,7 +31,6 @@ My expertise spans AI models in Agentic AI, Computer vision, and Data Engineerin
 ![LangSmith](https://img.shields.io/badge/LangSmith-FF5E00?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070E27?style=for-the-badge&logo=prefect&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
@@ -44,7 +38,6 @@ My expertise spans AI models in Agentic AI, Computer vision, and Data Engineerin
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Feast](https://img.shields.io/badge/Feast-FF4B4B?style=for-the-badge&logoColor=white)
-![Evidently AI](https://img.shields.io/badge/Evidently_AI-5E72E4?style=for-the-badge&logoColor=white)
 
 #### 🌐 Full-stack & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -55,10 +48,8 @@ My expertise spans AI models in Agentic AI, Computer vision, and Data Engineerin
 
 #### 💾 Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0E1B3D?style=for-the-badge&logo=pinecone&logoColor=white)
 
 #### ☁️ Cloud & Deployment
