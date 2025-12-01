@@ -3,7 +3,7 @@
 ## I am Felipe Flórez
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-florezo)
 
-My expertise spans AI models in Agentic AI, Computer vision, and Data Engineering, which power adaptive and personalized learning experiences. Passionate about leveraging technology for societal impact, I aim to foster accessible education and innovative solutions that align with community needs, driven by collaboration and shared success.
+My expertise spans models in Agentic AI and Computer vision, which power adaptive and personalized learning experiences. Passionate about leveraging technology for societal impact, I aim to foster accessible education and innovative solutions that align with community needs, driven by collaboration and shared success.
 
 ### 🛠️ Technical Skills
 
