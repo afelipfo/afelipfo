@@ -1,5 +1,5 @@
-# Andrés Felipe Flórez Olivera
-## **AI Engineer (M.Sc.)** specialized in production-grade Agentic AI and Computer Vision solutions.
+# Andrés F. Flórez Olivera (M.Sc.)
+## AI Engineer | Agentic AI & Computer Vision | Production Solutions
 
 ---
 
