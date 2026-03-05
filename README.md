@@ -1,4 +1,4 @@
-# Andrés F. Flórez Olivera (M.Sc.)
+# Andrés Felipe Flórez Olivera (M.Sc.)
 ## AI Engineer | Agentic AI & Computer Vision | Production Solutions
 
 ---
